@@ -1,0 +1,17 @@
+# requirements.txt
+pillow==11.0.0
+opencv-python==4.10.0.84
+ultralytics==8.2.79
+sqlalchemy==2.0.34
+pandas==2.2.3
+firebase-admin==6.5.0
+
+numpy==1.26.4
+python-dateutil==2.8.2
+psutil==5.9.5
+matplotlib==3.7.2
+easyocr==1.7.1
+
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# pip install --force-reinstall torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
